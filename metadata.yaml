@@ -1,0 +1,35 @@
+_repo: The-Rivers-and-Streams-of-England_46742
+contributor:
+  illustrator:
+    agent_name: Palmer, Sutton
+    alias: Palmer, Sutton (Harold "Harry")
+    birthdate: 1854
+    deathdate: 1933
+    gutenberg_agent_id: '42913'
+    url: http://www.gutenberg.org/2009/agents/42913
+    wikipedia: https://en.wikipedia.org/wiki/Harold_Sutton_Palmer
+creator:
+  author:
+    agent_name: Bradley, A. G. (Arthur Granville)
+    aliases:
+    - Bradley, A.G.
+    - Bradley, Arthur Granville
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '41697'
+    url: http://www.gutenberg.org/2009/agents/41697
+description: ''
+gutenberg_issued: '2014-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rivers -- England'
+- !lcsh 'England -- Description and travel'
+- !lcc 'DA'
+title: The Rivers and Streams of England
+url: http://www.gutenberg.org/ebooks/46742
